@@ -1,0 +1,1 @@
+print('wicked is good')
